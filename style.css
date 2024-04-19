@@ -1,3 +1,24 @@
-.red-color{
-    color: red;
-}
+.sd-container-size-500{
+    height: 500px;
+    width: 500px;
+} 
+.sd-container-size-600{
+    height: 600px;
+    width: 600px;
+} 
+.sd-container-size-700{
+    height:700px;
+    width:700px;
+} 
+.sd-container-size-800{
+    height: 800px;
+    width: 800px;
+} 
+.sd-container-size-900{
+    height: 900px;
+    width: 900px;
+} 
+.sd-container-size-1000{
+    height: 1000px;
+    width: 1000px;
+} 
